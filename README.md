@@ -8,7 +8,7 @@ teardown that proves I understand it - then I publish all of it.
 ### ▶︎ [phoebefu6.github.io](https://phoebefu6.github.io/)
 
 <!-- STATS:START -->
-**75 free courses** live right now, **978 sessions** across **12 domains**, on **83 live sites**. Everything below is free and runs in a browser.
+**76 free courses** live right now, **994 sessions** across **12 domains**, on **84 live sites**. Everything below is free and runs in a browser.
 <!-- STATS:END -->
 
 ---
@@ -30,12 +30,12 @@ teardown that proves I understand it - then I publish all of it.
 <!-- SHIPS:START -->
 | Shipped | What it is |
 | --- | --- |
-| [learn-with-phoebe](https://phoebefu6.github.io/learn-with-phoebe/) · today | The front door to every learn-X-with-phoebe course - free, hands-on courses on AI, data... |
 | [agent-skills-phoebe-picks](https://phoebefu6.github.io/agent-skills-phoebe-picks/) · today | Which AI agent Skills survive a real build? Every pick is field-tested by building a... |
+| [learn-ai-observability-with-phoebe](https://github.com/phoebefu6/learn-ai-observability-with-phoebe) · today |  |
+| [learn-with-phoebe](https://phoebefu6.github.io/learn-with-phoebe/) · today | The front door to every learn-X-with-phoebe course - free, hands-on courses on AI, data... |
 | [sketch-ideas-with-phoebe](https://phoebefu6.github.io/sketch-ideas-with-phoebe/) · today | Worth a thousand words - data and AI, explained in pictures. AI-made gallery: decoded... |
 | [play-game-with-phoebe](https://phoebefu6.github.io/play-game-with-phoebe/) · today | Browser game hub for Phoebe's Codex-built games |
 | [phoebefu6.github.io](https://phoebefu6.github.io/) · today | Personal site: I see problems as opportunities. I build solutions. I ship products. |
-| [phoebe-the-builder](https://phoebefu6.github.io/phoebe-the-builder/) · today | I see problems as opportunities. I build solutions to solve them. I ship products. |
 <!-- SHIPS:END -->
 
 ---
