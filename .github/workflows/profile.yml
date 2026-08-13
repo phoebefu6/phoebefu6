@@ -1,0 +1,41 @@
+name: Refresh profile
+
+# The profile README carries no hand-typed numbers. This run pulls the live
+# course counts from the hub's stats.json and the ship log from the GitHub API,
+# so the front page of the account reflects whatever shipped that day.
+
+on:
+  schedule:
+    - cron: "27 22 * * *" # 06:27 Singapore time, daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/build-profile.py
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild generated sections
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build-profile.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh profile stats and ship log"
+          git push
