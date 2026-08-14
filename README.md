@@ -25,4 +25,18 @@ the tool, the teardown, and publish every one of them.
 
 ---
 
+### Come find me
+
+Everything here is free and open. The interesting part starts when someone replies.
+
+| | |
+| --- | --- |
+| 💬 **Talk** | Disagree with a course, tell me a teardown got it wrong, or bring a problem you're stuck on. Open an [issue](https://github.com/phoebefu6/learn-with-phoebe/issues) or email me. |
+| 🤝 **Work** | Data and AI strategy, governance, and applied-AI delivery. Engagements run through Centience. |
+| 📚 **Learn together** | Take any course free. Want one that doesn't exist yet? Ask, and I'll build it. |
+
+**[phoebe.fu@centience.co](mailto:phoebe.fu@centience.co)**
+
+---
+
 <sub>The counts on this page are generated daily from the live repos, never typed by hand.</sub>
