@@ -2,8 +2,8 @@
 
 **I see problems as opportunities. I build solutions. I ship products.**
 
-Data and applied AI, in public. I learn a thing by building the course, the tool or the
-teardown that proves I understand it - then I publish all of it.
+Data and applied AI, in public. Understanding is built, not read - so I build the course,
+the tool, the teardown, and publish every one of them.
 
 ### ▶︎ [phoebefu6.github.io](https://phoebefu6.github.io/)
 
