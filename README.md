@@ -5,10 +5,6 @@
 Data and applied AI, in public. Understanding is built, not read - so I build the course,
 the tool, the teardown, and publish every one of them.
 
-Want to talk, work, or learn together? Disagree with something here, bring a problem you're
-stuck on, or ask for a course that doesn't exist yet -
-**[phoebe.fu@centience.co](mailto:phoebe.fu@centience.co)**
-
 ### ▶︎ [phoebefu6.github.io](https://phoebefu6.github.io/)
 
 <!-- STATS:START -->
