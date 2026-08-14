@@ -25,19 +25,4 @@ teardown that proves I understand it - then I publish all of it.
 
 ---
 
-### Shipped recently
-
-<!-- SHIPS:START -->
-| Shipped | What it is |
-| --- | --- |
-| [agent-skills-phoebe-picks](https://phoebefu6.github.io/agent-skills-phoebe-picks/) · today | Which AI agent Skills survive a real build? Every pick is field-tested by building a... |
-| [learn-ai-observability-with-phoebe](https://github.com/phoebefu6/learn-ai-observability-with-phoebe) · today |  |
-| [learn-with-phoebe](https://phoebefu6.github.io/learn-with-phoebe/) · today | The front door to every learn-X-with-phoebe course - free, hands-on courses on AI, data... |
-| [sketch-ideas-with-phoebe](https://phoebefu6.github.io/sketch-ideas-with-phoebe/) · today | Worth a thousand words - data and AI, explained in pictures. AI-made gallery: decoded... |
-| [play-game-with-phoebe](https://phoebefu6.github.io/play-game-with-phoebe/) · today | Browser game hub for Phoebe's Codex-built games |
-| [phoebefu6.github.io](https://phoebefu6.github.io/) · today | Personal site: I see problems as opportunities. I build solutions. I ship products. |
-<!-- SHIPS:END -->
-
----
-
-<sub>Counts and the ship log on this page are generated daily from the live repos, never typed by hand.</sub>
+<sub>The counts on this page are generated daily from the live repos, never typed by hand.</sub>
