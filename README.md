@@ -8,7 +8,7 @@ the tool, the teardown, and publish every one of them.
 ### ▶︎ [phoebefu6.github.io](https://phoebefu6.github.io/)
 
 <!-- STATS:START -->
-**77 free courses** live right now, **1010 sessions** across **12 domains**, on **85 live sites**. Everything below is free and runs in a browser.
+**78 free courses** live right now, **1026 sessions** across **12 domains**, on **86 live sites**. Everything below is free and runs in a browser.
 <!-- STATS:END -->
 
 ---
