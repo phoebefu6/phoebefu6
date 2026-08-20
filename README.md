@@ -25,4 +25,11 @@ the tool, the teardown, and publish every one of them.
 
 ---
 
-<sub>The counts on this page are generated daily from the live repos, never typed by hand.</sub>
+<!-- HIGHLIGHTS:START -->
+**📘 Today from the shelf** · [AI + Product Management](https://phoebefu6.github.io/learn-ai-pm-with-phoebe/)
+Product management when drafting is free
+<!-- HIGHLIGHTS:END -->
+
+---
+
+<sub>The counts and highlights on this page are generated daily from the live repos, never typed by hand.</sub>
