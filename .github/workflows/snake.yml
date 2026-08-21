@@ -1,0 +1,47 @@
+name: Contribution snake
+
+# Renders the contribution grid as a snake animation and publishes it to the
+# `output` branch. GitHub's real calendar cannot be changed, so this is a
+# generated SVG the README displays above it.
+#
+# Output lives on its own branch so the daily regeneration never adds commit
+# noise to main.
+
+on:
+  schedule:
+    - cron: "35 22 * * *" # 06:35 Singapore time, daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Palette matches the personal site: purple dot ramp, peach snake.
+      - name: Render the snake
+        uses: Platane/snk@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=%23fdba74&color_dots=%23eae8f0,%23e9d5ff,%23c084fc,%239333ea,%236b21a8
+            dist/snake-dark.svg?color_snake=%23fdba74&color_dots=%232a1b3d,%234c1d95,%236b21a8,%239333ea,%23c084fc
+
+      - name: Publish to the output branch
+        run: |
+          cd dist
+          git init -q
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "chore: regenerate contribution snake"
+          git push -q --force \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" \
+            HEAD:refs/heads/output
