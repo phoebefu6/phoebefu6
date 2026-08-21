@@ -36,7 +36,12 @@ jobs:
 
       - name: Publish to the output branch
         run: |
-          cd dist
+          # The snk action runs in Docker and leaves dist/ owned by root, so the
+          # runner cannot git-init inside it. Copy to a directory we own.
+          mkdir -p publish
+          sudo cp dist/*.svg publish/
+          sudo chown -R "$(id -u):$(id -g)" publish
+          cd publish
           git init -q
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
