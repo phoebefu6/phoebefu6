@@ -2,9 +2,6 @@
      aria-label="Phoebe Fu - understanding is built, not read. Data and applied AI, in public. Visit phoebefu6.github.io">
   <title>Phoebe Fu - understanding is built, not read</title>
   <defs>
-    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
-      <circle cx="1.6" cy="1.6" r="1.6" fill="#eae8f0"/>
-    </pattern>
     <clipPath id="swipe">
       <rect x="54" y="96" width="0" height="60">
         <animate attributeName="width" values="0;0;286;286;0" keyTimes="0;0.1;0.42;0.9;1"
@@ -14,7 +11,6 @@
   </defs>
 
   <rect width="900" height="210" fill="#ffffff"/>
-  <rect width="900" height="210" fill="url(#dots)"/>
 
   <g font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
     <!-- nav echo from the site -->
