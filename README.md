@@ -2,12 +2,7 @@
   <img src="assets/hero.svg" alt="Phoebe Fu - data and applied AI, in public. Visit phoebefu6.github.io" width="100%">
 </a>
 
-<p align="center">
-  <a href="https://phoebefu6.github.io/"><img alt="Visit the site" src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20MY%20SITE-9333ea?style=for-the-badge&labelColor=2a1b3d"></a>
-  <a href="https://github.com/phoebefu6"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/phoebefu6?style=for-the-badge&label=FOLLOW%20ON%20GITHUB&color=2a1b3d&labelColor=2a1b3d"></a>
-  <a href="https://www.linkedin.com/in/phoebe-fu-50168895/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&labelColor=2a1b3d&logo=linkedin&logoColor=white"></a>
-  <a href="https://phoebefu6.github.io/learn-with-phoebe/"><img alt="Browse the courses" src="https://img.shields.io/badge/BROWSE%20THE%20COURSES-fdba74?style=for-the-badge&labelColor=2a1b3d"></a>
-</p>
+<p align="center"><a href="https://phoebefu6.github.io/"><img alt="Visit the site" src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20MY%20SITE-9333ea?style=for-the-badge&labelColor=2a1b3d"></a><a href="https://github.com/phoebefu6"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/phoebefu6?style=for-the-badge&label=FOLLOW%20ON%20GITHUB&color=2a1b3d&labelColor=2a1b3d"></a><a href="https://www.linkedin.com/in/phoebe-fu-50168895/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&labelColor=2a1b3d&logo=linkedin&logoColor=white"></a><a href="https://phoebefu6.github.io/learn-with-phoebe/"><img alt="Browse the courses" src="https://img.shields.io/badge/BROWSE%20THE%20COURSES-fdba74?style=for-the-badge&labelColor=2a1b3d"></a></p>
 
 **I see problems as opportunities. I build solutions. I ship products.**
 
