@@ -3,9 +3,9 @@
 </a>
 
 <p align="center">
-  <a href="https://phoebefu6.github.io/"><img alt="Visit the site" src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20MY%20SITE-F5433A?style=for-the-badge&labelColor=100C12"></a>
-  <a href="https://github.com/phoebefu6"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/phoebefu6?style=for-the-badge&label=FOLLOW%20ON%20GITHUB&color=2A20D8&labelColor=100C12"></a>
-  <a href="https://phoebefu6.github.io/learn-with-phoebe/"><img alt="Browse the courses" src="https://img.shields.io/badge/BROWSE%20THE%20COURSES-F45BC0?style=for-the-badge&labelColor=100C12"></a>
+  <a href="https://phoebefu6.github.io/"><img alt="Visit the site" src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20MY%20SITE-9333ea?style=for-the-badge&labelColor=2a1b3d"></a>
+  <a href="https://github.com/phoebefu6"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/phoebefu6?style=for-the-badge&label=FOLLOW%20ON%20GITHUB&color=2a1b3d&labelColor=2a1b3d"></a>
+  <a href="https://phoebefu6.github.io/learn-with-phoebe/"><img alt="Browse the courses" src="https://img.shields.io/badge/BROWSE%20THE%20COURSES-fdba74?style=for-the-badge&labelColor=2a1b3d"></a>
 </p>
 
 **I see problems as opportunities. I build solutions. I ship products.**

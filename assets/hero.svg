@@ -1,59 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img"
-     aria-label="Phoebe Fu - data and applied AI, in public. Visit phoebefu6.github.io">
-  <title>Phoebe Fu - data and applied AI, in public</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" role="img"
+     aria-label="Phoebe Fu - understanding is built, not read. Data and applied AI, in public. Visit phoebefu6.github.io">
+  <title>Phoebe Fu - understanding is built, not read</title>
   <defs>
-    <clipPath id="typeclip"><rect x="54" y="112" width="0" height="34">
-      <animate attributeName="width" values="0;0;400;400;0"
-               keyTimes="0;0.06;0.46;0.9;1" dur="9s" repeatCount="indefinite"/>
-    </rect></clipPath>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#eae8f0"/>
+    </pattern>
+    <clipPath id="swipe">
+      <rect x="54" y="96" width="0" height="60">
+        <animate attributeName="width" values="0;0;286;286;0" keyTimes="0;0.1;0.42;0.9;1"
+                 dur="10s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
   </defs>
 
-  <!-- flat vivid field -->
-  <rect width="900" height="200" fill="#FFD616"/>
-
-  <!-- bold flat shapes, black-outlined like cut paper, drifting slowly -->
-  <g stroke="#100C12" stroke-width="3.5">
-    <circle cx="742" cy="58" r="47" fill="#8E5CF7">
-      <animate attributeName="cy" values="58;76;58" dur="11s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="818" cy="140" r="33" fill="#F45BC0">
-      <animate attributeName="cy" values="140;124;140" dur="9s" repeatCount="indefinite"/>
-    </circle>
-    <rect x="678" y="118" width="46" height="46" rx="6" fill="#2A20D8">
-      <animateTransform attributeName="transform" type="rotate"
-                        values="-8 701 141;9 701 141;-8 701 141" dur="13s" repeatCount="indefinite"/>
-    </rect>
-    <!-- lightning bolt, a nod to the reference -->
-    <path d="M862 34 L845 78 L864 76 L850 118 L888 66 L868 68 Z" fill="#F5433A">
-      <animate attributeName="opacity" values="1;0.25;1;1" keyTimes="0;0.08;0.16;1"
-               dur="9s" repeatCount="indefinite"/>
-    </path>
-  </g>
+  <rect width="900" height="210" fill="#ffffff"/>
+  <rect width="900" height="210" fill="url(#dots)"/>
 
   <g font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <!-- offset double-print, the pop-poster move -->
-    <text x="59" y="79" font-size="48" font-weight="800" fill="#F45BC0" letter-spacing="-1.2">Phoebe Fu</text>
-    <text x="54" y="76" font-size="48" font-weight="800" fill="#100C12" letter-spacing="-1.2">Phoebe Fu</text>
+    <!-- nav echo from the site -->
+    <rect x="54" y="26" width="26" height="26" rx="6" fill="#9333ea"/>
+    <text x="67" y="44" font-size="13" font-weight="800" fill="#ffffff" text-anchor="middle">PF</text>
+    <text x="90" y="44" font-size="15" font-weight="700" fill="#2a1b3d" letter-spacing="-0.2">Phoebe Fu</text>
 
-    <rect x="54" y="92" width="0" height="6" fill="#F5433A" stroke="#100C12" stroke-width="2.5">
-      <animate attributeName="width" values="0;300;300;0" keyTimes="0;0.3;0.88;1"
-               dur="9s" repeatCount="indefinite"/>
+    <!-- hero line, the site's own two-tone construction -->
+    <text x="54" y="105" font-size="38" font-weight="800" fill="#2a1b3d" letter-spacing="-1.1">Understanding is built,</text>
+
+    <!-- peach highlighter swipes in under the purple phrase -->
+    <rect x="54" y="151" width="0" height="11" fill="#fdba74">
+      <animate attributeName="width" values="0;0;178;178;0" keyTimes="0;0.14;0.5;0.9;1"
+               dur="10s" repeatCount="indefinite"/>
     </rect>
-
-    <g clip-path="url(#typeclip)">
-      <text x="54" y="138" font-size="25" font-weight="700" fill="#2A20D8"
-            >Understanding is built, not read.</text>
+    <g clip-path="url(#swipe)">
+      <text x="54" y="146" font-size="38" font-weight="800" fill="#9333ea" letter-spacing="-1.1">not read.</text>
     </g>
 
-    <text x="54" y="177" font-size="15" font-weight="700" fill="#100C12"
-          letter-spacing="2.6" opacity="0.72">DATA &#183; APPLIED AI &#183; IN PUBLIC</text>
+    <text x="54" y="184" font-size="13" font-weight="600" fill="#6b6480" letter-spacing="2.4">DATA &#183; APPLIED AI &#183; IN PUBLIC</text>
 
+    <!-- sparse bar motif, breathing -->
+    <g>
+      <rect x="700" y="96" width="7" height="42" fill="#9333ea">
+        <animate attributeName="height" values="42;62;42" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="96;76;96" dur="7s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="736" y="70" width="7" height="76" fill="#fdba74">
+        <animate attributeName="height" values="76;52;76" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="70;94;70" dur="9s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="772" y="84" width="7" height="58" fill="#fdba74">
+        <animate attributeName="height" values="58;80;58" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="84;62;84" dur="8s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="808" y="104" width="7" height="34" fill="#9333ea">
+        <animate attributeName="height" values="34;56;34" dur="11s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="104;82;104" dur="11s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- CTA fades up once the line has landed -->
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35;0.55;1"
-               dur="9s" repeatCount="indefinite"/>
-      <rect x="404" y="158" width="218" height="30" rx="15" fill="#100C12"/>
-      <text x="513" y="178" font-size="14" font-weight="700" fill="#FFD616"
-            text-anchor="middle" letter-spacing="0.4">phoebefu6.github.io &#8594;</text>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.46;0.62;1"
+               dur="10s" repeatCount="indefinite"/>
+      <rect x="654" y="164" width="192" height="30" rx="8" fill="#9333ea"/>
+      <text x="750" y="184" font-size="13" font-weight="700" fill="#ffffff"
+            text-anchor="middle" letter-spacing="0.2">phoebefu6.github.io &#8594;</text>
     </g>
   </g>
 </svg>
