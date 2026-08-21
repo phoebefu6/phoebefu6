@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img"
+     aria-label="Phoebe Fu - data and applied AI, in public. Visit phoebefu6.github.io">
+  <title>Phoebe Fu - data and applied AI, in public</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#241428"/>
+      <stop offset="55%" stop-color="#1b0f20"/>
+      <stop offset="100%" stop-color="#2b1626"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#f2a988"/>
+      <stop offset="55%"  stop-color="#e98d76"/>
+      <stop offset="100%" stop-color="#f2a988" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="typeclip"><rect x="52" y="112" width="0" height="34">
+      <animate attributeName="width" values="0;0;400;400;0"
+               keyTimes="0;0.06;0.46;0.9;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- drifting accent orbs, slow enough to read as ambience not decoration -->
+  <g opacity="0.5">
+    <circle cx="778" cy="52" r="66" fill="#e98d76" opacity="0.13">
+      <animate attributeName="cy" values="52;70;52" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="846" cy="146" r="42" fill="#c98bb4" opacity="0.14">
+      <animate attributeName="cy" values="146;130;146" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="52" y="76" font-size="46" font-weight="700" fill="#fdf4ee"
+          letter-spacing="-0.8">Phoebe Fu</text>
+
+    <!-- the rule draws itself once per loop -->
+    <rect x="52" y="92" width="0" height="3" rx="1.5" fill="url(#rule)">
+      <animate attributeName="width" values="0;300;300;0" keyTimes="0;0.3;0.88;1"
+               dur="9s" repeatCount="indefinite"/>
+    </rect>
+
+    <g clip-path="url(#typeclip)">
+      <text x="52" y="138" font-size="25" font-weight="500" fill="#f2a988"
+            >Understanding is built, not read.</text>
+    </g>
+
+    <text x="52" y="176" font-size="16" font-weight="500" fill="#b9a3b4"
+          letter-spacing="2.4">DATA &#183; APPLIED AI &#183; IN PUBLIC</text>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35;0.55;1"
+               dur="9s" repeatCount="indefinite"/>
+      <text x="848" y="182" font-size="15" font-weight="600" fill="#fdf4ee"
+            text-anchor="end">phoebefu6.github.io &#8594;</text>
+    </g>
+  </g>
+</svg>

@@ -1,11 +1,17 @@
-## Phoebe Fu
+<a href="https://phoebefu6.github.io/">
+  <img src="assets/hero.svg" alt="Phoebe Fu - data and applied AI, in public. Visit phoebefu6.github.io" width="100%">
+</a>
+
+<p align="center">
+  <a href="https://phoebefu6.github.io/"><img alt="Visit the site" src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20MY%20SITE-e98d76?style=for-the-badge&labelColor=241428"></a>
+  <a href="https://github.com/phoebefu6"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/phoebefu6?style=for-the-badge&label=FOLLOW%20ON%20GITHUB&color=241428&labelColor=241428"></a>
+  <a href="https://phoebefu6.github.io/learn-with-phoebe/"><img alt="Browse the courses" src="https://img.shields.io/badge/BROWSE%20THE%20COURSES-c98bb4?style=for-the-badge&labelColor=241428"></a>
+</p>
 
 **I see problems as opportunities. I build solutions. I ship products.**
 
 Data and applied AI, in public. Understanding is built, not read - so I build the course,
 the tool, the teardown, and publish every one of them.
-
-### ▶︎ [phoebefu6.github.io](https://phoebefu6.github.io/)
 
 <!-- STATS:START -->
 **78 free courses** live right now, **1026 sessions** across **12 domains**, on **86 live sites**. Everything below is free and runs in a browser.
@@ -26,8 +32,8 @@ the tool, the teardown, and publish every one of them.
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [AI + Product Management](https://phoebefu6.github.io/learn-ai-pm-with-phoebe/)
-Product management when drafting is free
+**📘 Today from the shelf** · [AI + Project Management](https://phoebefu6.github.io/learn-ai-project-management-with-phoebe/)
+Run a real programme with AI drafting beside you
 <!-- HIGHLIGHTS:END -->
 
 ---
