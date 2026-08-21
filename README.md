@@ -38,4 +38,15 @@ Run a real programme with AI drafting beside you
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/phoebefu6/phoebefu6/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/phoebefu6/phoebefu6/output/snake-light.svg">
+  <img alt="A snake eating Phoebe Fu's GitHub contribution grid"
+       src="https://raw.githubusercontent.com/phoebefu6/phoebefu6/output/snake-light.svg" width="100%">
+</picture>
+
+---
+
 <sub>The counts and highlights on this page are generated daily from the live repos, never typed by hand.</sub>
