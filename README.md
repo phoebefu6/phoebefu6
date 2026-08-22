@@ -10,7 +10,7 @@ Data and applied AI, in public. Understanding is built, not read - so I build th
 the tool, the teardown, and publish every one of them.
 
 <!-- STATS:START -->
-**78 free courses** live right now, **1026 sessions** across **12 domains**, on **86 live sites**. Everything below is free and runs in a browser.
+**78 free courses** live right now, **1026 sessions** across **12 domains**, on **87 live sites**. Everything below is free and runs in a browser.
 <!-- STATS:END -->
 
 ---
@@ -28,8 +28,8 @@ the tool, the teardown, and publish every one of them.
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [AI + Project Management](https://phoebefu6.github.io/learn-ai-project-management-with-phoebe/)
-Run a real programme with AI drafting beside you
+**📘 Today from the shelf** · [AI Red Team](https://phoebefu6.github.io/learn-ai-red-team-with-phoebe/)
+Testing the AI systems you own, honestly, and what you may claim afterwards. A bug bounty ran 183 people over 3,000 hours and found no universal...
 <!-- HIGHLIGHTS:END -->
 
 ---
