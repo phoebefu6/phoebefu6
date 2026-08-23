@@ -28,8 +28,8 @@ the tool, the teardown, and publish every one of them.
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [AI Red Team](https://phoebefu6.github.io/learn-ai-red-team-with-phoebe/)
-Testing the AI systems you own, honestly, and what you may claim afterwards. A bug bounty ran 183 people over 3,000 hours and found no universal...
+**📘 Today from the shelf** · [AI + Research](https://phoebefu6.github.io/learn-ai-research-with-phoebe/)
+Two tracks on research you can defend - the 6-session leader track sets the shared evidence standard, the failure catalogue, the consent rails and how...
 <!-- HIGHLIGHTS:END -->
 
 ---
