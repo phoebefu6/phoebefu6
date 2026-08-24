@@ -28,8 +28,8 @@ the tool, the teardown, and publish every one of them.
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [AI + Research](https://phoebefu6.github.io/learn-ai-research-with-phoebe/)
-Two tracks on research you can defend - the 6-session leader track sets the shared evidence standard, the failure catalogue, the consent rails and how...
+**📘 Today from the shelf** · [AI + Writing](https://phoebefu6.github.io/learn-ai-writing-with-phoebe/)
+Two tracks on the writing that fills a working week and has your name on it
 <!-- HIGHLIGHTS:END -->
 
 ---
