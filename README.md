@@ -10,7 +10,7 @@ Data and applied AI, in public. Understanding is built, not read - so I build th
 the tool, the teardown, and publish every one of them.
 
 <!-- STATS:START -->
-**78 free courses** live right now, **1026 sessions** across **12 domains**, on **87 live sites**. Everything below is free and runs in a browser.
+**82 free courses** live right now, **1050 sessions** across **12 domains**, on **91 live sites**. Everything below is free and runs in a browser.
 <!-- STATS:END -->
 
 ---
@@ -28,8 +28,8 @@ the tool, the teardown, and publish every one of them.
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [AI + Writing](https://phoebefu6.github.io/learn-ai-writing-with-phoebe/)
-Two tracks on the writing that fills a working week and has your name on it
+**📘 Today from the shelf** · [Data & AI Governance 101](https://phoebefu6.github.io/learn-governance-101-with-phoebe/)
+The plain-English on-ramp to the governance shelf
 <!-- HIGHLIGHTS:END -->
 
 ---
