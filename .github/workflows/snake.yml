@@ -9,7 +9,7 @@ name: Contribution snake
 
 on:
   schedule:
-    - cron: "35 22 * * *" # 06:35 Singapore time, daily
+    - cron: "35 */6 * * *" # every 6 hours - the grid changes through the day
   workflow_dispatch:
   push:
     branches: [main]

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" role="img"
-     aria-label="Phoebe Fu - understanding is built, not read. Data and applied AI, in public. Visit phoebefu6.github.io">
+     aria-label="Phoebe Fu - understanding is built, not read. Data and applied AI, in public.">
   <title>Phoebe Fu - understanding is built, not read</title>
   <defs>
     <clipPath id="swipe">
-      <rect x="54" y="96" width="0" height="60">
-        <animate attributeName="width" values="0;0;286;286;0" keyTimes="0;0.1;0.42;0.9;1"
-                 dur="10s" repeatCount="indefinite"/>
+      <rect x="54" y="96" width="0" height="62">
+        <animate attributeName="width" values="0;186;186;0;0" keyTimes="0;0.34;0.82;0.94;1"
+                 dur="7s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
   </defs>
@@ -13,52 +13,55 @@
   <rect width="900" height="210" fill="#ffffff"/>
 
   <g font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <!-- nav echo from the site -->
     <rect x="54" y="26" width="26" height="26" rx="6" fill="#9333ea"/>
     <text x="67" y="44" font-size="13" font-weight="800" fill="#ffffff" text-anchor="middle">PF</text>
     <text x="90" y="44" font-size="15" font-weight="700" fill="#2a1b3d" letter-spacing="-0.2">Phoebe Fu</text>
 
-    <!-- hero line, the site's own two-tone construction -->
     <text x="54" y="105" font-size="38" font-weight="800" fill="#2a1b3d" letter-spacing="-1.1">Understanding is built,</text>
 
-    <!-- peach highlighter swipes in under the purple phrase -->
     <rect x="54" y="151" width="0" height="11" fill="#fdba74">
-      <animate attributeName="width" values="0;0;178;178;0" keyTimes="0;0.14;0.5;0.9;1"
-               dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="0;178;178;0;0" keyTimes="0;0.4;0.82;0.94;1"
+               dur="7s" repeatCount="indefinite"/>
     </rect>
     <g clip-path="url(#swipe)">
       <text x="54" y="146" font-size="38" font-weight="800" fill="#9333ea" letter-spacing="-1.1">not read.</text>
     </g>
 
+    <!-- cursor blinks the whole time, so the banner is never fully still -->
+    <rect y="118" width="4" height="30" fill="#9333ea">
+      <animate attributeName="x" values="58;236;236;58;58" keyTimes="0;0.34;0.82;0.94;1"
+               dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+
     <text x="54" y="184" font-size="13" font-weight="600" fill="#6b6480" letter-spacing="2.4">DATA &#183; APPLIED AI &#183; IN PUBLIC</text>
 
-    <!-- sparse bar motif, breathing -->
     <g>
       <rect x="700" y="96" width="7" height="42" fill="#9333ea">
-        <animate attributeName="height" values="42;62;42" dur="7s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="96;76;96" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="42;68;30;42" dur="3.1s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="96;70;108;96" dur="3.1s" repeatCount="indefinite"/>
       </rect>
       <rect x="736" y="70" width="7" height="76" fill="#fdba74">
-        <animate attributeName="height" values="76;52;76" dur="9s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="70;94;70" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="76;44;84;76" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="70;102;62;70" dur="2.4s" repeatCount="indefinite"/>
       </rect>
       <rect x="772" y="84" width="7" height="58" fill="#fdba74">
-        <animate attributeName="height" values="58;80;58" dur="8s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="84;62;84" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="58;86;40;58" dur="2.9s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="84;56;102;84" dur="2.9s" repeatCount="indefinite"/>
       </rect>
       <rect x="808" y="104" width="7" height="34" fill="#9333ea">
-        <animate attributeName="height" values="34;56;34" dur="11s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="104;82;104" dur="11s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="34;62;24;34" dur="3.6s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="104;76;114;104" dur="3.6s" repeatCount="indefinite"/>
       </rect>
     </g>
 
-    <!-- CTA fades up once the line has landed -->
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.46;0.62;1"
-               dur="10s" repeatCount="indefinite"/>
+    <g>
       <rect x="654" y="164" width="192" height="30" rx="8" fill="#9333ea"/>
-      <text x="750" y="184" font-size="13" font-weight="700" fill="#ffffff"
-            text-anchor="middle" letter-spacing="0.2">phoebefu6.github.io &#8594;</text>
+      <text x="744" y="184" font-size="13" font-weight="700" fill="#ffffff"
+            text-anchor="middle" letter-spacing="0.2">phoebefu6.github.io</text>
+      <text x="828" y="184" font-size="13" font-weight="700" fill="#ffffff">&#8594;
+        <animate attributeName="dx" values="0;5;0" dur="1.6s" repeatCount="indefinite"/>
+      </text>
     </g>
   </g>
 </svg>

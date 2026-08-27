@@ -48,11 +48,11 @@ def render_stats(s: dict) -> str:
     return (
         f"**{s['courses_live']} free courses** live right now, "
         f"**{s['sessions_live']} sessions** across **{s['buckets_live']} domains**, "
-        f"on **{s['repos_live']} live sites**. Everything below is free and runs in a browser."
+        f"on **{s['repos_live']} live sites**. All free, all in the browser."
     )
 
 
-def one_line(text: str, limit: int = 150) -> str:
+def one_line(text: str, limit: int = 76) -> str:
     """First clause of a blurb, cut on a word boundary."""
     text = re.sub(r"\s+", " ", text or "").strip()
     for sep in (" - ", ": "):
