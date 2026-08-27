@@ -10,7 +10,7 @@ Data and applied AI, in public. Understanding is built, not read - so I build th
 the tool, the teardown, and publish every one of them.
 
 <!-- STATS:START -->
-**82 free courses** live right now, **1050 sessions** across **12 domains**, on **91 live sites**. Everything below is free and runs in a browser.
+**89 free courses** live right now, **1124 sessions** across **13 domains**, on **99 live sites**. Everything below is free and runs in a browser.
 <!-- STATS:END -->
 
 ---
@@ -28,8 +28,8 @@ the tool, the teardown, and publish every one of them.
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Data & AI Governance 101](https://phoebefu6.github.io/learn-governance-101-with-phoebe/)
-The plain-English on-ramp to the governance shelf
+**📘 Today from the shelf** · [WorkBuddy (Tencent AI Agent)](https://phoebefu6.github.io/learn-workbuddy-with-phoebe/)
+Tencent's execution-driven office agent: you say, it does. Two tracks: leaders judge where it pays off, govern the risk and roll it out with real...
 <!-- HIGHLIGHTS:END -->
 
 ---
