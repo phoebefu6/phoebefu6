@@ -2,12 +2,13 @@
      aria-label="Phoebe Fu - understanding is built, not read. Data and applied AI, in public.">
   <title>Phoebe Fu - understanding is built, not read</title>
   <defs>
-    <clipPath id="swipe">
-      <rect x="54" y="96" width="0" height="62">
-        <animate attributeName="width" values="0;186;186;0;0" keyTimes="0;0.34;0.82;0.94;1"
-                 dur="7s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#fdba74" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#ffffff" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#fdba74" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+                        values="-1 0;1 0;-1 0" dur="3.4s" repeatCount="indefinite"/>
+    </linearGradient>
   </defs>
 
   <rect width="900" height="210" fill="#ffffff"/>
@@ -17,21 +18,15 @@
     <text x="67" y="44" font-size="13" font-weight="800" fill="#ffffff" text-anchor="middle">PF</text>
     <text x="90" y="44" font-size="15" font-weight="700" fill="#2a1b3d" letter-spacing="-0.2">Phoebe Fu</text>
 
+    <!-- Resting state is complete: both lines and the underline are always drawn,
+         so the banner reads correctly even if no animation runs at all. -->
     <text x="54" y="105" font-size="38" font-weight="800" fill="#2a1b3d" letter-spacing="-1.1">Understanding is built,</text>
+    <text x="54" y="146" font-size="38" font-weight="800" fill="#9333ea" letter-spacing="-1.1">not read.</text>
+    <rect x="54" y="151" width="178" height="11" fill="#fdba74"/>
+    <rect x="54" y="151" width="178" height="11" fill="url(#sheen)"/>
 
-    <rect x="54" y="151" width="0" height="11" fill="#fdba74">
-      <animate attributeName="width" values="0;178;178;0;0" keyTimes="0;0.4;0.82;0.94;1"
-               dur="7s" repeatCount="indefinite"/>
-    </rect>
-    <g clip-path="url(#swipe)">
-      <text x="54" y="146" font-size="38" font-weight="800" fill="#9333ea" letter-spacing="-1.1">not read.</text>
-    </g>
-
-    <!-- cursor blinks the whole time, so the banner is never fully still -->
-    <rect y="118" width="4" height="30" fill="#9333ea">
-      <animate attributeName="x" values="58;236;236;58;58" keyTimes="0;0.34;0.82;0.94;1"
-               dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/>
+    <rect x="216" y="118" width="4" height="30" fill="#9333ea">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
 
     <text x="54" y="184" font-size="13" font-weight="600" fill="#6b6480" letter-spacing="2.4">DATA &#183; APPLIED AI &#183; IN PUBLIC</text>
@@ -59,8 +54,8 @@
       <rect x="654" y="164" width="192" height="30" rx="8" fill="#9333ea"/>
       <text x="744" y="184" font-size="13" font-weight="700" fill="#ffffff"
             text-anchor="middle" letter-spacing="0.2">phoebefu6.github.io</text>
-      <text x="828" y="184" font-size="13" font-weight="700" fill="#ffffff">&#8594;
-        <animate attributeName="dx" values="0;5;0" dur="1.6s" repeatCount="indefinite"/>
+      <text x="826" y="184" font-size="13" font-weight="700" fill="#ffffff">&#8594;
+        <animate attributeName="dx" values="0;5;0" dur="1.5s" repeatCount="indefinite"/>
       </text>
     </g>
   </g>
