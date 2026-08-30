@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Learn RAG](https://phoebefu6.github.io/learn-rag-with-phoebe/)
-Retrieval-augmented generation end to end
+**📘 Today from the shelf** · [Recommendation Systems](https://phoebefu6.github.io/learn-recommendation-with-phoebe/)
+How the 'recommended for you' engine works end to end
 <!-- HIGHLIGHTS:END -->
 
 ---
