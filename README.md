@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Recommendation Systems](https://phoebefu6.github.io/learn-recommendation-with-phoebe/)
-How the 'recommended for you' engine works end to end
+**📘 Today from the shelf** · [Learn SQL](https://phoebefu6.github.io/learn-sql-with-phoebe/)
+Read and judge SQL as a leader, or write it hands-on
 <!-- HIGHLIGHTS:END -->
 
 ---
