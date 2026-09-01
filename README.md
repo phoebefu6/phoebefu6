@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Learn SQL](https://phoebefu6.github.io/learn-sql-with-phoebe/)
-Read and judge SQL as a leader, or write it hands-on
+**📘 Today from the shelf** · [Statistics & Probability](https://phoebefu6.github.io/learn-statistics-with-phoebe/)
+Statistics and probability from the ground up
 <!-- HIGHLIGHTS:END -->
 
 ---
