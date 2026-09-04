@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**95 free courses** live right now, **1172 sessions** across **15 domains**, on **105 live sites**. All free, all in the browser.
+**98 free courses** live right now, **1190 sessions** across **15 domains**, on **108 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [AI Agents](https://phoebefu6.github.io/learn-ai-agents-with-phoebe/)
-What an agent actually is - an LLM in a loop with tools - and how to make...
+**📘 Today from the shelf** · [Learn Hermes AI](https://phoebefu6.github.io/learn-hermes-ai-with-phoebe/)
+Run and build on local open models - eight sessions plus five deep dives on...
 <!-- HIGHLIGHTS:END -->
 
 ---
