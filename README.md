@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Experimentation & A/B Testing](https://phoebefu6.github.io/learn-experimentation-with-phoebe/)
-Two tracks on experimentation, A/B testing, and causal inference
+**📘 Today from the shelf** · [Feature Engineering](https://phoebefu6.github.io/learn-feature-engineering-with-phoebe/)
+A column is what the database gives you; a feature is what the model can...
 <!-- HIGHLIGHTS:END -->
 
 ---
