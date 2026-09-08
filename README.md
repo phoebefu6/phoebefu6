@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Feature Engineering](https://phoebefu6.github.io/learn-feature-engineering-with-phoebe/)
-A column is what the database gives you; a feature is what the model can...
+**📘 Today from the shelf** · [GDPR for a Singapore Org](https://phoebefu6.github.io/learn-gdpr-with-phoebe/)
+The EU GDPR taught for a Singapore/APAC company
 <!-- HIGHLIGHTS:END -->
 
 ---
