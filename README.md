@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**102 free courses** live right now, **1217 sessions** across **14 domains**, on **112 live sites**. All free, all in the browser.
+**105 free courses** live right now, **1253 sessions** across **15 domains**, on **115 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [GDPR for a Singapore Org](https://phoebefu6.github.io/learn-gdpr-with-phoebe/)
-The EU GDPR taught for a Singapore/APAC company
+**📘 Today from the shelf** · [Learn Codex](https://phoebefu6.github.io/learn-codex-with-phoebe/)
+Learn OpenAI Codex by building one real personal website end to end
 <!-- HIGHLIGHTS:END -->
 
 ---
