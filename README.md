@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**108 free courses** live right now, **1297 sessions** across **15 domains**, on **119 live sites**. All free, all in the browser.
+**109 free courses** live right now, **1313 sessions** across **15 domains**, on **120 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Learn Hermes AI](https://phoebefu6.github.io/learn-hermes-ai-with-phoebe/)
-Run and build on local open models - eight sessions plus five deep dives on...
+**📘 Today from the shelf** · [Python Data Analysis](https://phoebefu6.github.io/learn-python-data-analysis-with-phoebe/)
+One running project - load 124k job postings, clean them, and ship a report...
 <!-- HIGHLIGHTS:END -->
 
 ---
