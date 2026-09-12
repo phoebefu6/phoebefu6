@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Python Data Analysis](https://phoebefu6.github.io/learn-python-data-analysis-with-phoebe/)
-One running project - load 124k job postings, clean them, and ship a report...
+**📘 Today from the shelf** · [Learn Python](https://phoebefu6.github.io/learn-python-with-phoebe/)
+Python from zero for data and AI work - hands-on in a real Anaconda +...
 <!-- HIGHLIGHTS:END -->
 
 ---
