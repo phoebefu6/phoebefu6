@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Learn Python](https://phoebefu6.github.io/learn-python-with-phoebe/)
-Python from zero for data and AI work - hands-on in a real Anaconda +...
+**📘 Today from the shelf** · [Learn RAG](https://phoebefu6.github.io/learn-rag-with-phoebe/)
+Retrieval-augmented generation end to end
 <!-- HIGHLIGHTS:END -->
 
 ---
