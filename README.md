@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Recommendation Systems](https://phoebefu6.github.io/learn-recommendation-with-phoebe/)
-How the 'recommended for you' engine works end to end
+**📘 Today from the shelf** · [Ship It: Five-Year Platform Diagnosis](https://phoebefu6.github.io/learn-ship-platform-diagnosis-with-phoebe/)
+A B2B print-on-demand platform reviewed a rolling quarter for five years and...
 <!-- HIGHLIGHTS:END -->
 
 ---
