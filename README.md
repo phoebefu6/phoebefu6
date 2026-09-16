@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Ship It: Five-Year Platform Diagnosis](https://phoebefu6.github.io/learn-ship-platform-diagnosis-with-phoebe/)
-A B2B print-on-demand platform reviewed a rolling quarter for five years and...
+**📘 Today from the shelf** · [Learn SQL](https://phoebefu6.github.io/learn-sql-with-phoebe/)
+Read and judge SQL as a leader, or write it hands-on
 <!-- HIGHLIGHTS:END -->
 
 ---
