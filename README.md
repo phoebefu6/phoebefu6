@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Statistics & Probability](https://phoebefu6.github.io/learn-statistics-with-phoebe/)
-Statistics and probability from the ground up
+**📘 Today from the shelf** · [Strategic Thinking](https://phoebefu6.github.io/learn-strategic-thinking-with-phoebe/)
+Eight frameworks for sharper decisions, run on one B2B2C case, Himalaya, all...
 <!-- HIGHLIGHTS:END -->
 
 ---
