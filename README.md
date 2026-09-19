@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**109 free courses** live right now, **1313 sessions** across **15 domains**, on **120 live sites**. All free, all in the browser.
+**111 free courses** live right now, **1335 sessions** across **15 domains**, on **122 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Strategic Thinking](https://phoebefu6.github.io/learn-strategic-thinking-with-phoebe/)
-Eight frameworks for sharper decisions, run on one B2B2C case, Himalaya, all...
+**📘 Today from the shelf** · [Entity Resolution & Master Data](https://phoebefu6.github.io/learn-entity-resolution-with-phoebe/)
+What you do when two systems describe the same customers and nothing joins...
 <!-- HIGHLIGHTS:END -->
 
 ---
