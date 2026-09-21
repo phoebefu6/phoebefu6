@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**115 free courses** live right now, **1379 sessions** across **15 domains**, on **126 live sites**. All free, all in the browser.
+**118 free courses** live right now, **1417 sessions** across **18 domains**, on **129 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [ML Strategy: Error Analysis & Evals Discipline](https://phoebefu6.github.io/learn-ml-strategy-with-phoebe/)
-The Andrew Ng discipline that decides how fast a team moves
+**📘 Today from the shelf** · [AI + Media](https://phoebefu6.github.io/learn-ai-media-domain-with-phoebe/)
+Fewer people, less money, more checking, lower trust. Editors get...
 <!-- HIGHLIGHTS:END -->
 
 ---
