@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**120 free courses** live right now, **1429 sessions** across **18 domains**, on **131 live sites**. All free, all in the browser.
+**123 free courses** live right now, **1467 sessions** across **18 domains**, on **134 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [MCP (Model Context Protocol)](https://phoebefu6.github.io/learn-mcp-with-phoebe/)
-The open protocol wiring AI to everything. Two tracks
+**📘 Today from the shelf** · [Business Intelligence](https://phoebefu6.github.io/learn-business-intelligence-with-phoebe/)
+Two tracks from dashboard-curious to dashboard-fluent
 <!-- HIGHLIGHTS:END -->
 
 ---
