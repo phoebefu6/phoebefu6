@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Business Intelligence](https://phoebefu6.github.io/learn-business-intelligence-with-phoebe/)
-Two tracks from dashboard-curious to dashboard-fluent
+**📘 Today from the shelf** · [Causal Inference: The Ladder](https://phoebefu6.github.io/learn-causal-inference-with-phoebe/)
+The causal model, not the estimator: the ladder of causation, whether a...
 <!-- HIGHLIGHTS:END -->
 
 ---
