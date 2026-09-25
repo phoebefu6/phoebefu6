@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**123 free courses** live right now, **1467 sessions** across **18 domains**, on **134 live sites**. All free, all in the browser.
+**124 free courses** live right now, **1473 sessions** across **18 domains**, on **135 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Causal Inference: The Ladder](https://phoebefu6.github.io/learn-causal-inference-with-phoebe/)
-The causal model, not the estimator: the ladder of causation, whether a...
+**📘 Today from the shelf** · [Learn RAG](https://phoebefu6.github.io/learn-rag-with-phoebe/)
+Retrieval-augmented generation end to end
 <!-- HIGHLIGHTS:END -->
 
 ---
