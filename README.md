@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**124 free courses** live right now, **1473 sessions** across **18 domains**, on **135 live sites**. All free, all in the browser.
+**126 free courses** live right now, **1503 sessions** across **18 domains**, on **137 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Learn RAG](https://phoebefu6.github.io/learn-rag-with-phoebe/)
-Retrieval-augmented generation end to end
+**📘 Today from the shelf** · [AI + HR](https://phoebefu6.github.io/learn-ai-hr-with-phoebe/)
+AI across the whole people lifecycle - a leader (CHRO) track plus an HR...
 <!-- HIGHLIGHTS:END -->
 
 ---
