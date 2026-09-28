@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Strategic Thinking](https://phoebefu6.github.io/learn-strategic-thinking-with-phoebe/)
-Eight frameworks for sharper decisions, run on one B2B2C case, Himalaya, all...
+**📘 Today from the shelf** · [Streaming Data](https://phoebefu6.github.io/learn-streaming-data-with-phoebe/)
+Daybreak's dashboard goes real-time: flip the stream on and watch accuracy...
 <!-- HIGHLIGHTS:END -->
 
 ---
