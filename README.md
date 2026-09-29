@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Streaming Data](https://phoebefu6.github.io/learn-streaming-data-with-phoebe/)
-Daybreak's dashboard goes real-time: flip the stream on and watch accuracy...
+**📘 Today from the shelf** · [System Design & Orchestration](https://phoebefu6.github.io/learn-system-design-with-phoebe/)
+Not what the layers are and not how to build the pipe
 <!-- HIGHLIGHTS:END -->
 
 ---
