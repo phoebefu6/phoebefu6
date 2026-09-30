@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**127 free courses** live right now, **1519 sessions** across **18 domains**, on **138 live sites**. All free, all in the browser.
+**130 free courses** live right now, **1537 sessions** across **18 domains**, on **141 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [System Design & Orchestration](https://phoebefu6.github.io/learn-system-design-with-phoebe/)
-Not what the layers are and not how to build the pipe
+**📘 Today from the shelf** · [Data Reliability: SLOs & On-call](https://phoebefu6.github.io/learn-data-reliability-with-phoebe/)
+The promise, the budget and the people on call for a data pipeline. SLIs for...
 <!-- HIGHLIGHTS:END -->
 
 ---
