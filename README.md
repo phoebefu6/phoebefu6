@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**130 free courses** live right now, **1537 sessions** across **18 domains**, on **141 live sites**. All free, all in the browser.
+**136 free courses** live right now, **1589 sessions** across **18 domains**, on **147 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Data Reliability: SLOs & On-call](https://phoebefu6.github.io/learn-data-reliability-with-phoebe/)
-The promise, the budget and the people on call for a data pipeline. SLIs for...
+**📘 Today from the shelf** · [Cyber Security for the Data Estate](https://phoebefu6.github.io/learn-cyber-security-with-phoebe/)
+Defence taught from the attacker's path inward. NIST CSF 2.0's six...
 <!-- HIGHLIGHTS:END -->
 
 ---
