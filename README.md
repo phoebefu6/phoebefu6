@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Cyber Security for the Data Estate](https://phoebefu6.github.io/learn-cyber-security-with-phoebe/)
-Defence taught from the attacker's path inward. NIST CSF 2.0's six...
+**📘 Today from the shelf** · [Data Access Control](https://phoebefu6.github.io/learn-data-access-control-with-phoebe/)
+Who can see what, and proving it. Role hierarchies, row and column policies...
 <!-- HIGHLIGHTS:END -->
 
 ---
