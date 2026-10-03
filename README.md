@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Data Access Control](https://phoebefu6.github.io/learn-data-access-control-with-phoebe/)
-Who can see what, and proving it. Role hierarchies, row and column policies...
+**📘 Today from the shelf** · [Data-Centric AI](https://phoebefu6.github.io/learn-data-centric-ai-with-phoebe/)
+Hold the model fixed, fix the data - label consistency, confident learning...
 <!-- HIGHLIGHTS:END -->
 
 ---
