@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**136 free courses** live right now, **1589 sessions** across **18 domains**, on **147 live sites**. All free, all in the browser.
+**138 free courses** live right now, **1617 sessions** across **18 domains**, on **149 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Data-Centric AI](https://phoebefu6.github.io/learn-data-centric-ai-with-phoebe/)
-Hold the model fixed, fix the data - label consistency, confident learning...
+**📘 Today from the shelf** · [Entity Resolution & Master Data](https://phoebefu6.github.io/learn-entity-resolution-with-phoebe/)
+What you do when two systems describe the same customers and nothing joins...
 <!-- HIGHLIGHTS:END -->
 
 ---
