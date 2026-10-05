@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Entity Resolution & Master Data](https://phoebefu6.github.io/learn-entity-resolution-with-phoebe/)
-What you do when two systems describe the same customers and nothing joins...
+**📘 Today from the shelf** · [Experimentation & A/B Testing](https://phoebefu6.github.io/learn-experimentation-with-phoebe/)
+Two tracks on experimentation, A/B testing, and causal inference
 <!-- HIGHLIGHTS:END -->
 
 ---
