@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**138 free courses** live right now, **1617 sessions** across **18 domains**, on **149 live sites**. All free, all in the browser.
+**144 free courses** live right now, **1653 sessions** across **18 domains**, on **156 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Experimentation & A/B Testing](https://phoebefu6.github.io/learn-experimentation-with-phoebe/)
-Two tracks on experimentation, A/B testing, and causal inference
+**📘 Today from the shelf** · [AI + Office](https://phoebefu6.github.io/learn-ai-office-with-phoebe/)
+Six sessions, one weekly report. The honest one
 <!-- HIGHLIGHTS:END -->
 
 ---
