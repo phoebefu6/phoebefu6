@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Business Chinese Advanced](https://phoebefu6.github.io/learn-business-chinese-advanced-with-phoebe/)
-Business register for people who already speak Chinese
+**📘 Today from the shelf** · [Business Chinese Basic](https://phoebefu6.github.io/learn-business-chinese-basic-with-phoebe/)
+Zero to a first business meeting in Mandarin
 <!-- HIGHLIGHTS:END -->
 
 ---
