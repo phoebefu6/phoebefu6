@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Business Chinese Basic](https://phoebefu6.github.io/learn-business-chinese-basic-with-phoebe/)
-Zero to a first business meeting in Mandarin
+**📘 Today from the shelf** · [Business English](https://phoebefu6.github.io/learn-business-english-with-phoebe/)
+Confident, natural workplace English for non-native professionals
 <!-- HIGHLIGHTS:END -->
 
 ---
