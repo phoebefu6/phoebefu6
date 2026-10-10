@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**148 free courses** live right now, **1677 sessions** across **18 domains**, on **160 live sites**. All free, all in the browser.
+**151 free courses** live right now, **1725 sessions** across **18 domains**, on **163 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Business English](https://phoebefu6.github.io/learn-business-english-with-phoebe/)
-Confident, natural workplace English for non-native professionals
+**📘 Today from the shelf** · [Yoga Theory](https://phoebefu6.github.io/learn-yoga-theory-with-phoebe/)
+The theory half of a 200-hour teacher training, mapped to the Yoga Alliance...
 <!-- HIGHLIGHTS:END -->
 
 ---
