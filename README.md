@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**151 free courses** live right now, **1725 sessions** across **18 domains**, on **163 live sites**. All free, all in the browser.
+**158 free courses** live right now, **1798 sessions** across **18 domains**, on **170 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Yoga Theory](https://phoebefu6.github.io/learn-yoga-theory-with-phoebe/)
-The theory half of a 200-hour teacher training, mapped to the Yoga Alliance...
+**📘 Today from the shelf** · [Reading the Yellow Emperor](https://phoebefu6.github.io/learn-tcm-with-phoebe/)
+A guided first read of 黄帝内经 - yin-yang, five phases, the zang-fu body...
 <!-- HIGHLIGHTS:END -->
 
 ---
