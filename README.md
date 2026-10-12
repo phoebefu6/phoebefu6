@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**158 free courses** live right now, **1798 sessions** across **18 domains**, on **170 live sites**. All free, all in the browser.
+**163 free courses** live right now, **1836 sessions** across **18 domains**, on **175 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Reading the Yellow Emperor](https://phoebefu6.github.io/learn-tcm-with-phoebe/)
-A guided first read of 黄帝内经 - yin-yang, five phases, the zang-fu body...
+**📘 Today from the shelf** · [Business Chinese Advanced](https://phoebefu6.github.io/learn-business-chinese-advanced-with-phoebe/)
+Business register for people who already speak Chinese
 <!-- HIGHLIGHTS:END -->
 
 ---
