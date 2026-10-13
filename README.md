@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**163 free courses** live right now, **1836 sessions** across **18 domains**, on **175 live sites**. All free, all in the browser.
+**167 free courses** live right now, **1860 sessions** across **18 domains**, on **179 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Business Chinese Advanced](https://phoebefu6.github.io/learn-business-chinese-advanced-with-phoebe/)
-Business register for people who already speak Chinese
+**📘 Today from the shelf** · [Learn HTML](https://phoebefu6.github.io/learn-html-with-phoebe/)
+The web's building blocks - every example is an editable, sandboxed...
 <!-- HIGHLIGHTS:END -->
 
 ---
