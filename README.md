@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**167 free courses** live right now, **1860 sessions** across **18 domains**, on **179 live sites**. All free, all in the browser.
+**167 free courses** live right now, **1860 sessions** across **18 domains**, on **180 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Learn HTML](https://phoebefu6.github.io/learn-html-with-phoebe/)
-The web's building blocks - every example is an editable, sandboxed...
+**📘 Today from the shelf** · [Interview Prep](https://phoebefu6.github.io/learn-interview-prep-with-phoebe/)
+The candidate side of data and AI interviews, following Ren, a constructed...
 <!-- HIGHLIGHTS:END -->
 
 ---
