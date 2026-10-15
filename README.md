@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Interview Prep](https://phoebefu6.github.io/learn-interview-prep-with-phoebe/)
-The candidate side of data and AI interviews, following Ren, a constructed...
+**📘 Today from the shelf** · [Intro to Machine Learning](https://phoebefu6.github.io/learn-intro-ml-with-phoebe/)
+Two tracks on classic machine learning end to end
 <!-- HIGHLIGHTS:END -->
 
 ---
