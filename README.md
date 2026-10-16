@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**167 free courses** live right now, **1860 sessions** across **18 domains**, on **180 live sites**. All free, all in the browser.
+**167 free courses** live right now, **1860 sessions** across **18 domains**, on **181 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Intro to Machine Learning](https://phoebefu6.github.io/learn-intro-ml-with-phoebe/)
-Two tracks on classic machine learning end to end
+**📘 Today from the shelf** · [IoT & Industrial Data (incl. smart home)](https://phoebefu6.github.io/learn-iot-data-with-phoebe/)
+What changes when the row is written by a sensor instead of a person...
 <!-- HIGHLIGHTS:END -->
 
 ---
