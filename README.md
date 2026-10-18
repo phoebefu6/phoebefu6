@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**169 free courses** live right now, **1882 sessions** across **18 domains**, on **183 live sites**. All free, all in the browser.
+**170 free courses** live right now, **1896 sessions** across **18 domains**, on **184 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [AI + Product Management](https://phoebefu6.github.io/learn-ai-pm-with-phoebe/)
-Product management when drafting is free
+**📘 Today from the shelf** · [Data Orchestration](https://phoebefu6.github.io/learn-data-orchestration-with-phoebe/)
+Daybreak's 2am build runs on cron: thirty mornings on time, twelve silently...
 <!-- HIGHLIGHTS:END -->
 
 ---
