@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Data Orchestration](https://phoebefu6.github.io/learn-data-orchestration-with-phoebe/)
-Daybreak's 2am build runs on cron: thirty mornings on time, twelve silently...
+**📘 Today from the shelf** · [Data Pipelines](https://phoebefu6.github.io/learn-data-pipelines-with-phoebe/)
+The zero-code on-ramp to the deng shelf: follow one Daybreak order from an...
 <!-- HIGHLIGHTS:END -->
 
 ---
