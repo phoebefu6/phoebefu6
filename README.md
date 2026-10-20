@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**170 free courses** live right now, **1896 sessions** across **18 domains**, on **184 live sites**. All free, all in the browser.
+**171 free courses** live right now, **1912 sessions** across **18 domains**, on **185 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Data Pipelines](https://phoebefu6.github.io/learn-data-pipelines-with-phoebe/)
-The zero-code on-ramp to the deng shelf: follow one Daybreak order from an...
+**📘 Today from the shelf** · [User Journey Analytics](https://phoebefu6.github.io/learn-user-journey-analytics-with-phoebe/)
+Where the numbers happen: the ecommerce in-app journey, measured
 <!-- HIGHLIGHTS:END -->
 
 ---
