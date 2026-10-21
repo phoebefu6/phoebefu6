@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [User Journey Analytics](https://phoebefu6.github.io/learn-user-journey-analytics-with-phoebe/)
-Where the numbers happen: the ecommerce in-app journey, measured
+**📘 Today from the shelf** · [Value Investing](https://phoebefu6.github.io/learn-value-investing-with-phoebe/)
+Graham and Buffett as a reasoning discipline
 <!-- HIGHLIGHTS:END -->
 
 ---
