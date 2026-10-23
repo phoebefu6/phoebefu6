@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**171 free courses** live right now, **1912 sessions** across **18 domains**, on **185 live sites**. All free, all in the browser.
+**173 free courses** live right now, **1924 sessions** across **18 domains**, on **187 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Visual Storytelling](https://phoebefu6.github.io/learn-visual-storytelling-with-phoebe/)
-The charts are right and nobody acts on the deck. Six sessions on the other...
+**📘 Today from the shelf** · [Unsupervised Learning](https://phoebefu6.github.io/learn-unsupervised-with-phoebe/)
+Segment 12,000 Mango Lane customers with no labels
 <!-- HIGHLIGHTS:END -->
 
 ---
