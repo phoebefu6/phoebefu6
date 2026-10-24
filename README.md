@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Unsupervised Learning](https://phoebefu6.github.io/learn-unsupervised-with-phoebe/)
-Segment 12,000 Mango Lane customers with no labels
+**📘 Today from the shelf** · [User Journey Analytics](https://phoebefu6.github.io/learn-user-journey-analytics-with-phoebe/)
+Where the numbers happen: the ecommerce in-app journey, measured
 <!-- HIGHLIGHTS:END -->
 
 ---
