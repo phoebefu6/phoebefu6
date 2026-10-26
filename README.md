@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Value Investing](https://phoebefu6.github.io/learn-value-investing-with-phoebe/)
-Graham and Buffett as a reasoning discipline
+**📘 Today from the shelf** · [Visual Storytelling](https://phoebefu6.github.io/learn-visual-storytelling-with-phoebe/)
+The charts are right and nobody acts on the deck. Six sessions on the other...
 <!-- HIGHLIGHTS:END -->
 
 ---
