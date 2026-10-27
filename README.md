@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Visual Storytelling](https://phoebefu6.github.io/learn-visual-storytelling-with-phoebe/)
-The charts are right and nobody acts on the deck. Six sessions on the other...
+**📘 Today from the shelf** · [Web3 for Data and AI Teams](https://phoebefu6.github.io/learn-web3-with-phoebe/)
+A data course, not a technology tour. About 1,000 active addresses stand for...
 <!-- HIGHLIGHTS:END -->
 
 ---
