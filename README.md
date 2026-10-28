@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Web3 for Data and AI Teams](https://phoebefu6.github.io/learn-web3-with-phoebe/)
-A data course, not a technology tour. About 1,000 active addresses stand for...
+**📘 Today from the shelf** · [When AI, When Not](https://phoebefu6.github.io/learn-when-ai-with-phoebe/)
+The routing skill - when a dashboard beats a model, when classic ML beats...
 <!-- HIGHLIGHTS:END -->
 
 ---
