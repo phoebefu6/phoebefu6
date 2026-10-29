@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [When AI, When Not](https://phoebefu6.github.io/learn-when-ai-with-phoebe/)
-The routing skill - when a dashboard beats a model, when classic ML beats...
+**📘 Today from the shelf** · [WorkBuddy (Tencent AI Agent)](https://phoebefu6.github.io/learn-workbuddy-with-phoebe/)
+Tencent's execution-driven office agent: you say, it does. Two tracks...
 <!-- HIGHLIGHTS:END -->
 
 ---
