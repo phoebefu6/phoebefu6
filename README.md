@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**173 free courses** live right now, **1924 sessions** across **18 domains**, on **187 live sites**. All free, all in the browser.
+**174 free courses** live right now, **1930 sessions** across **18 domains**, on **188 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [WorkBuddy (Tencent AI Agent)](https://phoebefu6.github.io/learn-workbuddy-with-phoebe/)
-Tencent's execution-driven office agent: you say, it does. Two tracks...
+**📘 Today from the shelf** · [Data Products](https://phoebefu6.github.io/learn-data-product-with-phoebe/)
+A guided tour of 29 data products from cloud infrastructure to agentic AI...
 <!-- HIGHLIGHTS:END -->
 
 ---
