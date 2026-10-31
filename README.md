@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**174 free courses** live right now, **1930 sessions** across **18 domains**, on **188 live sites**. All free, all in the browser.
+**176 free courses** live right now, **1954 sessions** across **18 domains**, on **190 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Data Products](https://phoebefu6.github.io/learn-data-product-with-phoebe/)
-A guided tour of 29 data products from cloud infrastructure to agentic AI...
+**📘 Today from the shelf** · [AI + Law](https://phoebefu6.github.io/learn-ai-law-with-phoebe/)
+How lawyers use AI in practice - a leader (no-code) + practitioner...
 <!-- HIGHLIGHTS:END -->
 
 ---
