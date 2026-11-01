@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**176 free courses** live right now, **1954 sessions** across **18 domains**, on **190 live sites**. All free, all in the browser.
+**179 free courses** live right now, **1976 sessions** across **18 domains**, on **193 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [AI + Law](https://phoebefu6.github.io/learn-ai-law-with-phoebe/)
-How lawyers use AI in practice - a leader (no-code) + practitioner...
+**📘 Today from the shelf** · [Meditation for Skeptics](https://phoebefu6.github.io/learn-meditation-with-phoebe/)
+A secular, honest on-ramp: the breath, the body, the wandering mind
 <!-- HIGHLIGHTS:END -->
 
 ---
