@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**179 free courses** live right now, **1976 sessions** across **18 domains**, on **193 live sites**. All free, all in the browser.
+**181 free courses** live right now, **2004 sessions** across **18 domains**, on **195 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Meditation for Skeptics](https://phoebefu6.github.io/learn-meditation-with-phoebe/)
-A secular, honest on-ramp: the breath, the body, the wandering mind
+**📘 Today from the shelf** · [Visual Storytelling](https://phoebefu6.github.io/learn-visual-storytelling-with-phoebe/)
+The charts are right and nobody acts on the deck. Six sessions on the other...
 <!-- HIGHLIGHTS:END -->
 
 ---
