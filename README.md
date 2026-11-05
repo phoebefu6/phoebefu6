@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Command Line for Data People](https://phoebefu6.github.io/learn-command-line-with-phoebe/)
-The terminal every other course assumes, for data people
+**📘 Today from the shelf** · [Communication Skills](https://phoebefu6.github.io/learn-communication-with-phoebe/)
+One message rebuilt six times, from ignored to acted on. With a clarity...
 <!-- HIGHLIGHTS:END -->
 
 ---
