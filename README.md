@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Communication Skills](https://phoebefu6.github.io/learn-communication-with-phoebe/)
-One message rebuilt six times, from ignored to acted on. With a clarity...
+**📘 Today from the shelf** · [Workshop & Course Design](https://phoebefu6.github.io/learn-course-design-with-phoebe/)
+Two tracks: design the learning, then get it used and prove it changed...
 <!-- HIGHLIGHTS:END -->
 
 ---
