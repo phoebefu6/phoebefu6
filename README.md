@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**183 free courses** live right now, **2024 sessions** across **18 domains**, on **197 live sites**. All free, all in the browser.
+**185 free courses** live right now, **2040 sessions** across **18 domains**, on **199 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Workshop & Course Design](https://phoebefu6.github.io/learn-course-design-with-phoebe/)
-Two tracks: design the learning, then get it used and prove it changed...
+**📘 Today from the shelf** · [Marketing Attribution](https://phoebefu6.github.io/learn-marketing-attribution-with-phoebe/)
+Who gets the sale - attribution modeling from first and last-touch through...
 <!-- HIGHLIGHTS:END -->
 
 ---
