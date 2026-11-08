@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Marketing Attribution](https://phoebefu6.github.io/learn-marketing-attribution-with-phoebe/)
-Who gets the sale - attribution modeling from first and last-touch through...
+**📘 Today from the shelf** · [Marketing](https://phoebefu6.github.io/learn-marketing-with-phoebe/)
+Marketing fundamentals on the fictional Cadence
 <!-- HIGHLIGHTS:END -->
 
 ---
