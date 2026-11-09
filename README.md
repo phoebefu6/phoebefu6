@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**185 free courses** live right now, **2040 sessions** across **18 domains**, on **199 live sites**. All free, all in the browser.
+**191 free courses** live right now, **2076 sessions** across **18 domains**, on **206 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Marketing](https://phoebefu6.github.io/learn-marketing-with-phoebe/)
-Marketing fundamentals on the fictional Cadence
+**📘 Today from the shelf** · [Web3 for Data and AI Teams](https://phoebefu6.github.io/learn-web3-with-phoebe/)
+A data course, not a technology tour. About 1,000 active addresses stand for...
 <!-- HIGHLIGHTS:END -->
 
 ---
