@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**191 free courses** live right now, **2076 sessions** across **18 domains**, on **206 live sites**. All free, all in the browser.
+**192 free courses** live right now, **2082 sessions** across **18 domains**, on **207 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Web3 for Data and AI Teams](https://phoebefu6.github.io/learn-web3-with-phoebe/)
-A data course, not a technology tour. About 1,000 active addresses stand for...
+**📘 Today from the shelf** · [Recommendation Systems](https://phoebefu6.github.io/learn-recommendation-with-phoebe/)
+How the 'recommended for you' engine works end to end
 <!-- HIGHLIGHTS:END -->
 
 ---
