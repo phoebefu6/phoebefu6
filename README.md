@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**192 free courses** live right now, **2082 sessions** across **18 domains**, on **207 live sites**. All free, all in the browser.
+**193 free courses** live right now, **2088 sessions** across **18 domains**, on **208 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Recommendation Systems](https://phoebefu6.github.io/learn-recommendation-with-phoebe/)
-How the 'recommended for you' engine works end to end
+**📘 Today from the shelf** · [Ship It: Social Commerce, End to End](https://phoebefu6.github.io/learn-ship-social-commerce-with-phoebe/)
+One social-commerce data estate built through all five layers in the order...
 <!-- HIGHLIGHTS:END -->
 
 ---
