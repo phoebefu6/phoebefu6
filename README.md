@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**193 free courses** live right now, **2088 sessions** across **18 domains**, on **208 live sites**. All free, all in the browser.
+**195 free courses** live right now, **2112 sessions** across **18 domains**, on **210 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Ship It: Social Commerce, End to End](https://phoebefu6.github.io/learn-ship-social-commerce-with-phoebe/)
-One social-commerce data estate built through all five layers in the order...
+**📘 Today from the shelf** · [Geospatial Data](https://phoebefu6.github.io/learn-geospatial-with-phoebe/)
+A location is a claim with a reference system, a boundary and a distance...
 <!-- HIGHLIGHTS:END -->
 
 ---
