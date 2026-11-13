@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Geospatial Data](https://phoebefu6.github.io/learn-geospatial-with-phoebe/)
-A location is a claim with a reference system, a boundary and a distance...
+**📘 Today from the shelf** · [GitHub for Builders](https://phoebefu6.github.io/learn-github-for-builders-with-phoebe/)
+Git and GitHub for people who ship code - branches, pull requests, and...
 <!-- HIGHLIGHTS:END -->
 
 ---
