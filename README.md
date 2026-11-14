@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [GitHub for Builders](https://phoebefu6.github.io/learn-github-for-builders-with-phoebe/)
-Git and GitHub for people who ship code - branches, pull requests, and...
+**📘 Today from the shelf** · [Learn GitHub](https://phoebefu6.github.io/learn-github-with-phoebe/)
+GitHub for non-coders - what repos, issues, and pull requests are, and why...
 <!-- HIGHLIGHTS:END -->
 
 ---
