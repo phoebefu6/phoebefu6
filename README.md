@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Learn GitHub](https://phoebefu6.github.io/learn-github-with-phoebe/)
-GitHub for non-coders - what repos, issues, and pull requests are, and why...
+**📘 Today from the shelf** · [Learn GitLab](https://phoebefu6.github.io/learn-gitlab-with-phoebe/)
+GitLab as what it adds over git plus a host
 <!-- HIGHLIGHTS:END -->
 
 ---
