@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Learn GitLab](https://phoebefu6.github.io/learn-gitlab-with-phoebe/)
-GitLab as what it adds over git plus a host
+**📘 Today from the shelf** · [Data & AI Governance 101](https://phoebefu6.github.io/learn-governance-101-with-phoebe/)
+The plain-English on-ramp to the governance shelf
 <!-- HIGHLIGHTS:END -->
 
 ---
