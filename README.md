@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**199 free courses** live right now, **2136 sessions** across **18 domains**, on **214 live sites**. All free, all in the browser.
+**202 free courses** live right now, **2158 sessions** across **18 domains**, on **217 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Classification & Regression](https://phoebefu6.github.io/learn-classification-regression-with-phoebe/)
-The supervised algorithm zoo in depth - linear and polynomial regression...
+**📘 Today from the shelf** · [Learn Evals](https://phoebefu6.github.io/learn-ai-evals-with-phoebe/)
+How to know an AI system actually works - golden sets, retrieval and...
 <!-- HIGHLIGHTS:END -->
 
 ---
