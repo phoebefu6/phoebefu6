@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Learn Evals](https://phoebefu6.github.io/learn-ai-evals-with-phoebe/)
-How to know an AI system actually works - golden sets, retrieval and...
+**📘 Today from the shelf** · [AI + Finance](https://phoebefu6.github.io/learn-ai-finance-with-phoebe/)
+How finance practitioners embrace AI - a leader (no-code) + builder...
 <!-- HIGHLIGHTS:END -->
 
 ---
