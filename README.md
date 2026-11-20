@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**202 free courses** live right now, **2158 sessions** across **18 domains**, on **217 live sites**. All free, all in the browser.
+**205 free courses** live right now, **2176 sessions** across **18 domains**, on **220 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [AI + Finance](https://phoebefu6.github.io/learn-ai-finance-with-phoebe/)
-How finance practitioners embrace AI - a leader (no-code) + builder...
+**📘 Today from the shelf** · [Excel & Sheets for Analysts](https://phoebefu6.github.io/learn-excel-sheets-with-phoebe/)
+Spreadsheets taught as data work with silent failure modes
 <!-- HIGHLIGHTS:END -->
 
 ---
