@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Excel & Sheets for Analysts](https://phoebefu6.github.io/learn-excel-sheets-with-phoebe/)
-Spreadsheets taught as data work with silent failure modes
+**📘 Today from the shelf** · [Executive Briefings & Memos](https://phoebefu6.github.io/learn-executive-briefings-with-phoebe/)
+One page, the decision first, the evidence behind it
 <!-- HIGHLIGHTS:END -->
 
 ---
