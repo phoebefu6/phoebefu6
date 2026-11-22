@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Executive Briefings & Memos](https://phoebefu6.github.io/learn-executive-briefings-with-phoebe/)
-One page, the decision first, the evidence behind it
+**📘 Today from the shelf** · [Experimentation & A/B Testing](https://phoebefu6.github.io/learn-experimentation-with-phoebe/)
+Two tracks on experimentation, A/B testing, and causal inference
 <!-- HIGHLIGHTS:END -->
 
 ---
