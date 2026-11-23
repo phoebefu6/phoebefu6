@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**205 free courses** live right now, **2176 sessions** across **18 domains**, on **220 live sites**. All free, all in the browser.
+**208 free courses** live right now, **2214 sessions** across **18 domains**, on **223 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Experimentation & A/B Testing](https://phoebefu6.github.io/learn-experimentation-with-phoebe/)
-Two tracks on experimentation, A/B testing, and causal inference
+**📘 Today from the shelf** · [Data Visualization](https://phoebefu6.github.io/learn-dataviz-with-phoebe/)
+A 21 percent difference, shown as 173 percent, by a chart nobody thought was...
 <!-- HIGHLIGHTS:END -->
 
 ---
