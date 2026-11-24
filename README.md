@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Data Visualization](https://phoebefu6.github.io/learn-dataviz-with-phoebe/)
-A 21 percent difference, shown as 173 percent, by a chart nobody thought was...
+**📘 Today from the shelf** · [Decision Intelligence & Superforecasting](https://phoebefu6.github.io/learn-decision-intelligence-with-phoebe/)
+Decisions first, data second - your calibration measured live against...
 <!-- HIGHLIGHTS:END -->
 
 ---
