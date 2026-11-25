@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**208 free courses** live right now, **2214 sessions** across **18 domains**, on **223 live sites**. All free, all in the browser.
+**209 free courses** live right now, **2230 sessions** across **18 domains**, on **224 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Decision Intelligence & Superforecasting](https://phoebefu6.github.io/learn-decision-intelligence-with-phoebe/)
-Decisions first, data second - your calibration measured live against...
+**📘 Today from the shelf** · [Databricks: Lakehouse for Data & AI](https://phoebefu6.github.io/learn-databricks-with-phoebe/)
+The lakehouse as Databricks builds it - Delta tables that remember, time...
 <!-- HIGHLIGHTS:END -->
 
 ---
