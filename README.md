@@ -13,7 +13,7 @@
 </p>
 
 <!-- STATS:START -->
-**211 free courses** live right now, **2242 sessions** across **18 domains**, on **226 live sites**. All free, all in the browser.
+**212 free courses** live right now, **2245 sessions** across **18 domains**, on **227 live sites**. All free, all in the browser.
 <!-- STATS:END -->
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [The One-Person Company](https://phoebefu6.github.io/learn-solopreneur-with-phoebe/)
-Run a business of one, following Marlow, a constructed solo data consultant
+**📘 Today from the shelf** · [Dashboard Design](https://phoebefu6.github.io/learn-dashboard-design-with-phoebe/)
+What goes on the screen and where, for the analyst who designs it
 <!-- HIGHLIGHTS:END -->
 
 ---
