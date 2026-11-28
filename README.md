@@ -31,8 +31,8 @@
 ---
 
 <!-- HIGHLIGHTS:START -->
-**📘 Today from the shelf** · [Dashboard Design](https://phoebefu6.github.io/learn-dashboard-design-with-phoebe/)
-What goes on the screen and where, for the analyst who designs it
+**📘 Today from the shelf** · [Data Access Control](https://phoebefu6.github.io/learn-data-access-control-with-phoebe/)
+Who can see what, and proving it. Role hierarchies, row and column policies...
 <!-- HIGHLIGHTS:END -->
 
 ---
